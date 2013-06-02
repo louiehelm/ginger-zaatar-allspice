@@ -72,7 +72,3 @@ III. Running examples
     scripts/allspice_beta.py allows one to select a protocol (among
     {Ginger, Zaatar, and CMT-batching}) with the lowest break-even batch
     sizes.
-
-IV. Contact
-Please contact srinath at cs dot utexas dot edu for any questions and
-comments.
